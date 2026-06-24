@@ -1,0 +1,38 @@
+import { createContext, useContext, useState } from "react";
+
+const NotificationContext = createContext();
+
+export const NotificationProvider = ({ children }) => {
+  const [notifications, setNotifications] = useState([]);
+
+  const pushNotification = (message, type = "info") => {
+    const newNotif = {
+      id: Date.now(),
+      message,
+      type,
+    };
+
+    setNotifications((prev) => [newNotif, ...prev]);
+  };
+
+  const clearNotification = (id) => {
+    setNotifications((prev) =>
+      prev.filter((n) => n.id !== id)
+    );
+  };
+
+  return (
+    <NotificationContext.Provider
+      value={{
+        notifications,
+        pushNotification,
+        clearNotification,
+      }}
+    >
+      {children}
+    </NotificationContext.Provider>
+  );
+};
+
+export const useNotification = () =>
+  useContext(NotificationContext);
