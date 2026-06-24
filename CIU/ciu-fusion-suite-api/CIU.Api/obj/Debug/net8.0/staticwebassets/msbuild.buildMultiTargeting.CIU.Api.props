@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CIU.Api.props" />
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.SignalR\obj\Debug\net8.0\CIU.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.SignalR\obj\Debug\net8.0\CIU.SignalR.AssemblyInfoInputs.cache
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.SignalR\obj\Debug\net8.0\CIU.SignalR.AssemblyInfo.cs
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.SignalR\obj\Debug\net8.0\CIU.SignalR.csproj.CoreCompileInputs.cache
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.SignalR\obj\Debug\net8.0\CIU.SignalR.sourcelink.json
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.SignalR\bin\Debug\net8.0\CIU.SignalR.deps.json
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.SignalR\bin\Debug\net8.0\CIU.SignalR.dll
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.SignalR\bin\Debug\net8.0\CIU.SignalR.pdb
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.SignalR\obj\Debug\net8.0\CIU.SignalR.dll
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.SignalR\obj\Debug\net8.0\refint\CIU.SignalR.dll
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.SignalR\obj\Debug\net8.0\CIU.SignalR.pdb
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.SignalR\obj\Debug\net8.0\ref\CIU.SignalR.dll

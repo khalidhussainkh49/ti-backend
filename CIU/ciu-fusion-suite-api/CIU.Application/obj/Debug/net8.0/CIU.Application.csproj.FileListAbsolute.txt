@@ -1,0 +1,16 @@
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Application\bin\Debug\net8.0\CIU.Application.deps.json
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Application\bin\Debug\net8.0\CIU.Application.dll
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Application\bin\Debug\net8.0\CIU.Application.pdb
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Application\bin\Debug\net8.0\CIU.Domain.dll
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Application\bin\Debug\net8.0\CIU.Domain.pdb
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Application\obj\Debug\net8.0\CIU.Application.csproj.AssemblyReference.cache
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Application\obj\Debug\net8.0\CIU.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Application\obj\Debug\net8.0\CIU.Application.AssemblyInfoInputs.cache
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Application\obj\Debug\net8.0\CIU.Application.AssemblyInfo.cs
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Application\obj\Debug\net8.0\CIU.Application.csproj.CoreCompileInputs.cache
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Application\obj\Debug\net8.0\CIU.Application.sourcelink.json
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Application\obj\Debug\net8.0\CIU.Appl.2AF3AB38.Up2Date
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Application\obj\Debug\net8.0\CIU.Application.dll
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Application\obj\Debug\net8.0\refint\CIU.Application.dll
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Application\obj\Debug\net8.0\CIU.Application.pdb
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Application\obj\Debug\net8.0\ref\CIU.Application.dll

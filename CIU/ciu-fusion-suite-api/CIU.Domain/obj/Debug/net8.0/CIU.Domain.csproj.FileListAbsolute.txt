@@ -1,0 +1,12 @@
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Domain\bin\Debug\net8.0\CIU.Domain.deps.json
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Domain\bin\Debug\net8.0\CIU.Domain.dll
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Domain\bin\Debug\net8.0\CIU.Domain.pdb
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Domain\obj\Debug\net8.0\CIU.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Domain\obj\Debug\net8.0\CIU.Domain.AssemblyInfoInputs.cache
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Domain\obj\Debug\net8.0\CIU.Domain.AssemblyInfo.cs
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Domain\obj\Debug\net8.0\CIU.Domain.csproj.CoreCompileInputs.cache
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Domain\obj\Debug\net8.0\CIU.Domain.sourcelink.json
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Domain\obj\Debug\net8.0\CIU.Domain.dll
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Domain\obj\Debug\net8.0\refint\CIU.Domain.dll
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Domain\obj\Debug\net8.0\CIU.Domain.pdb
+C:\Users\msaid_nzapejn\OneDrive\Desktop\CIU\ciu-fusion-suite-api\CIU.Domain\obj\Debug\net8.0\ref\CIU.Domain.dll
